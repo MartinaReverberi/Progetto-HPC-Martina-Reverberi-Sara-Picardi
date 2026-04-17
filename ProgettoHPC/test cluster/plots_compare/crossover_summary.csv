@@ -1,0 +1,16 @@
+n_jobs;p_grafo;crossover_n
+2;0.0001;non raggiunto
+2;0.0005;non raggiunto
+2;0.01;non raggiunto
+2;0.05;non raggiunto
+2;0.1;non raggiunto
+4;0.0001;non raggiunto
+4;0.0005;non raggiunto
+4;0.01;non raggiunto
+4;0.05;non raggiunto
+4;0.1;non raggiunto
+8;0.0001;non raggiunto
+8;0.0005;non raggiunto
+8;0.01;non raggiunto
+8;0.05;non raggiunto
+8;0.1;non raggiunto
